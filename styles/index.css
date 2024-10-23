@@ -142,7 +142,7 @@ body, html {
 }
 
 @media screen and (max-width: 600px) {
-  .topnav a:not(:nth-child(-n+3)) {display: none;}
+  .topnav a:not(:nth-child(-n+4)) {display: none;}
   .topnav a.icon {
     float: right;
     display: block;
